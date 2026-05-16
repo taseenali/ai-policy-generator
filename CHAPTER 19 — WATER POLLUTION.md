@@ -1,6 +1,6 @@
 "# CHAPTER 19 — WATER POLLUTION AND TREATMENT (CLO#4)
 
-> **Phase 1 extraction** — Polish model: verify all numbers, dates, and definitions against source PDFs/PPTs.
+> **Phase 2 verified** — Numbers cross-checked against `prep/_extracted_texts/`. Exxon Valdez stats confirmed [ch19 Summary.pdf, p.2].
 
 ---
 
