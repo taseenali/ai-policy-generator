@@ -7,7 +7,7 @@
 | 3 | ch19_2.pdf | 19 | pdf | DONE | 63 slides: textbook slides covering all Ch 19 sections |
 | 4 | ch20 handouts.pdf | 20 | pdf | DONE | 85 slides: full textbook chapter |
 | 5 | ch20-Lecture questions.pdf | 20 | pdf | DONE | 9 pages: lecture outline + end-of-chapter review Q&A (Q1–14) |
-| 6 | ch20 classwork 12-03-2026.docx | 20 | docx | DONE | 8 MCQ + 4 T/F + 6 essay with answer keys |
+| 6 | ch20 classwork 12-03-2026.docx | 20 | docx | DONE | Phase 2 re-extracted; verified in CLASSWORK-VERIFICATION.md |
 | 7 | ch20-part 1.2.pptx | 20 | pptx | DONE | 25 slides: Intro, historical background, Mauna Loa, proxy records, sunspots |
 | 8 | ch20-part 2.1.pptx | 20 | pptx | DONE | 23 slides: Weather/climate, atmosphere structure, pressure, Hadley cells, albedo, Milankovitch |
 | 9 | ch20-part 3.pptm | 20 | pptm | DONE | 23 slides: Greenhouse effect, GHG details, feedback loops, ocean conveyor belt |
