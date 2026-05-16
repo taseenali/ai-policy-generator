@@ -1,6 +1,6 @@
 "# CHAPTER 21 — AIR POLLUTION (CLO#4)
 
-> **Phase 1 extraction** — Polish model: verify all numbers, dates, and definitions against source PDFs/PPTs.
+> **Phase 2 verified** — Cross-checked against extracted slide text.
 
 ---
 
