@@ -1,44 +1,59 @@
-"# env-st-exam-prep
+---
+name: env-st-exam-prep
+description: Environmental Studies final exam prep for Ch 19-21 (water, climate, air). Use for quizzes, drills, mocks, diagram practice, mastery tracking, and gap audits.
+---
 
-## Description
-This skill provides context for Environmental Studies (ENV-ST) exam preparation, specifically CLO#4 covering anthropogenic emissions in climate change, air pollution, and water quality. Use this skill when the student asks about exam prep, practice questions, concept review, or knowledge gaps.
+# env-st-exam-prep
 
-## When to Use
-- Student asks about CLO#4, climate change, air pollution, or water pollution
-- Student requests practice questions or quiz
-- Student asks to review a specific concept or chapter
-- Student asks about their exam readiness or gaps
+## When to use
+- Student studies for Env St **final exam** (Spring 2026)
+- Requests: quiz, drill, mock, flashcards, diagram, weak spots, readiness check
+- Chapters 19, 20, 21 — subjective and MCQ
 
-## Sources
-All knowledge is extracted from 17 source files in `Learning Material/` covering:
-- Chapter 19: Water Pollution and Treatment
-- Chapter 20: Atmosphere and Climate Change
-- Chapter 21: Air Pollution
+## Session protocol
+1. Read `prep/state/session-log.md`, `mastery.json`, `srs-queue.json`
+2. Cite `prep/knowledge/` and `prep/question-bank/master-question-bank.md` only
+3. Closed-book recall before revealing answers
+4. Update state files after every session
 
-## Deliverable Map
-- Knowledge bases: `prep/knowledge/ch19-water-pollution.md`, `prep/knowledge/ch20-atmosphere-climate.md`, `prep/knowledge/ch21-air-pollution.md`
-- Coverage tracker: `prep/coverage/clo4-mastery-grid.md`
-- Question bank: `prep/question-bank/master-question-bank.md`
-- Gap report: `prep/gaps/DIAGRAM-GAPS.md`
-- State of readiness: `prep/state/INITIAL-STATE.md`
-- File inventory: `prep/audit/FILE-INVENTORY.md`
-- Cursor rules: `.cursor/rules/env-st-clo4.md`
+## Workflows
 
-## Protocol
-1. When activated, first check `prep/state/INITIAL-STATE.md` for current coverage status
-2. For concept questions, search the appropriate knowledge base by [Concept ID]
-3. For practice questions, pull from `prep/question-bank/master-question-bank.md`
-4. Always cite source files
-5. Mark any gaps found for the Polish pass
-6. Use tier levels (M/D/A) from coverage tracker to prioritize responses
-7. Flag common exam traps
+### learn
+Prime → encode (list/mnemonic) → light recall → update mastery
 
-## Typical Student Queries
-The student will ask things like:
-- "Quiz me on Ch 20"
-- "What are the key numbers I need to memorize?"
-- "Explain the greenhouse effect step by step"
-- "What are the differences between primary and secondary pollutants?"
-- "Show me a diagram of the wastewater treatment process"
-- "What gaps do I still have?"
-"
+### drill
+SRS `due_today` → 5–10 flashcards from `prep/flashcards/flashcards.md` → update mastery
+
+### diagram
+Pick from `prep/diagrams/exam-diagrams.md` → student draws → grade labels **(L)**
+
+### chapter-test
+20 Q from one chapter; mix MCQ + subjective; strict grading
+
+### mock-exam
+Timed; all chapters; report % and weak concept IDs
+
+### weak-spot
+All mastery scores 0–2 from `mastery.json`; drill until 3+
+
+### zero-gap-audit
+Walk `prep/coverage/clo4-mastery-grid.md` M-tier rows; flag any not at 4+
+
+## Deliverable map
+| Need | File |
+|------|------|
+| Concepts | `prep/knowledge/ch19-*.md`, `ch20-*.md`, `ch21-*.md` |
+| Grid | `prep/coverage/clo4-mastery-grid.md` |
+| Questions | `prep/question-bank/master-question-bank.md` |
+| Diagrams | `prep/diagrams/exam-diagrams.md` |
+| Flashcards | `prep/flashcards/flashcards.md` |
+| State | `prep/state/mastery.json`, `srs-queue.json`, `session-log.md` |
+| Scope | `AGENTS.md` |
+| Build status | `prep/audit/PHASE-2-SIGNOFF.md` |
+
+## SRS intervals (days)
+1 → 3 → 7 → 14 when promoting toward score 5
+
+## CLO map
+- Ch 19, 21 → CLO#3
+- Ch 20 → CLO#4
