@@ -24,7 +24,7 @@
 | 1.7 | Oligotrophic vs. eutrophic lakes | D | ch19-007/008 | ✅ Slides | No |
 | 1.8 | Fecal coliform — indicator organism, EPA thresholds (200/100ml swimming; 0/100ml drinking) | M | ch19-009 | ✅ PDF + slides | No |
 | 1.9 | Waterborne disease — fecal-oral route; cholera, Cryptosporidium | M | ch19-010 | ✅ PDF | No |
-| 1.10 | Oil pollution — Exxon Valdez, Deepwater Horizon | D | ch19-039/040 | ✅ PDF — SOME NUMBERS UNVERIFIED | Yes — verify casualties against external |
+| 1.10 | Oil pollution — Exxon Valdez, Deepwater Horizon | D | ch19-042/043 | ✅ ch19 Summary p.2 (Phase 2 verified) | No |
 | 1.11 | Sediment pollution — greatest by volume/mass; twofold problem | M | ch19-031 | ✅ PDF + slides | No |
 | 1.12 | Acid mine drainage — pyrite + O₂ + H₂O → H₂SO₄; solutions | M | ch19-011, 027 | ✅ PDF + slides | No |
 | 1.13 | Point vs. nonpoint source pollutants | M | ch19-012/013 | ✅ PDF + slides | No |
@@ -128,5 +128,5 @@
 | Ch 21 — Air | 22 | 6 | 0 | 28 |
 | **TOTAL** | **58** | **20** | **4** | **82** |
 
-**Exam readiness**: 82 distinct knowledge items mapped. 58 at Mastery level. Focus remaining on diagram generation and any unverified numbers in the Polish pass.
+**System readiness (Phase 2)**: 82 grid items mapped; 134 concept IDs in `mastery.json`. Polish complete. Student must run baseline mock + diagram practice for personal exam readiness.
 "
