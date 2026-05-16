@@ -69,11 +69,16 @@
 
 **Q20.1** [AC Q1 / CW Q13] Methane in the atmosphere has more than doubled in the past 200 years. List the sources of atmospheric methane.
 
-**Answer**:
+**Canonical answer [CW Q13]** (classwork DOCX — minimum for full marks):
+- Bacteria in guts of termites and intestines of ruminant mammals (cows) digesting woody plants
+- Seepage from oil fields and methane hydrates
+- Landfills; burning of fossil fuels; production of coal and natural gas; agriculture
+
+**Extended answer** (slides/handouts — memorize for richer subjective):
 1. Bacteria in guts of termites and intestines of ruminant mammals (cows) digesting woody plants
 2. Seepage from oil fields and methane hydrates
 3. Landfills (major US source)
-4. Burning of biofuels
+4. Burning of biofuels / fossil fuels
 5. Production of coal and natural gas
 6. Agriculture (raising cattle, cultivating rice)
 7. Oxygenless freshwater wetlands (bacteria decompose vegetation, releasing methane as decay product)
@@ -82,7 +87,10 @@
 
 **Q20.2** [AC Q2 / CW Q14] What is the ocean conveyor belt and what role does it play in Europe's climate?
 
-**Answer**: The ocean conveyor belt is a global circulation of ocean waters characterized by strong northward movement of upper warm waters of the Gulf Stream in the Atlantic Ocean. The temperature of these waters is approximately 12°–13°C when they arrive near Greenland, and they are cooled in the North Atlantic to 2°–4°C. As the water cools, it becomes saltier and denser, causing it to sink to the bottom. The cold, deep current flows southward, then eastward, and finally northward in the Pacific Ocean. Upwelling in the North Pacific starts the warm, shallow current again. The flow rate is huge—20 million m³/sec, about equal to 100 Amazon Rivers. The heat released to the atmosphere from the warm water keeps Northern Europe 5°C–10°C warmer than if the ocean conveyor belt were not present.
+**Canonical answer [CW Q14]**:
+The ocean conveyor belt is a global circulation of ocean waters characterized by strong northward movement of upper warm waters of the Gulf Stream in the Atlantic Ocean. The heat released to the atmosphere from the warm water keeps Northern Europe **5°C–10°C warmer** than if the ocean conveyor belt were not present.
+
+**Extended answer** (handouts — add for depth): Waters ~12°–13°C near Greenland cool to 2°–4°C, sink (denser/saltier), deep current flows south → east → north in Pacific; upwelling restarts cycle. Flow ≈ **20 million m³/sec** (~100 Amazon Rivers).
 
 ---
 
