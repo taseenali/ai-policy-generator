@@ -1,6 +1,6 @@
 "# CHAPTER 20 — THE ATMOSPHERE AND CLIMATE CHANGE (CLO#4)
 
-> **Phase 1 extraction** — Polish model: verify all numbers, dates, and definitions against source PDFs/PPTs.
+> **Phase 2 verified** — Classwork DOCX answer key integrated. See `prep/audit/CLASSWORK-VERIFICATION.md`.
 
 ---
 
@@ -355,7 +355,7 @@ Warming → increased evaporation → more clouds → reflect more sunlight → 
 
 ## 8. CASE EXAMPLES
 
-[Concept ID: ch20-039] **Exxon Valdez oil spill (March 24, 1989)**: Prince William Sound, Alaska; 11 million gallons spilled; 250,000 barrels; killed 13% harbor seals, 28% otters, 100,000–645,000 seabirds; only ~14% recovered; led to Oil Pollution Act of 1990. UNVERIFIED (some numbers) — NEEDS POLISH PASS. [source: ch19 Summary.pdf, p.2]
+[Concept ID: ch20-039] **Exxon Valdez oil spill (March 24, 1989)**: Prince William Sound, Alaska; 11 million gallons spilled; 250,000 barrels; killed 13% harbor seals, 28% otters, 100,000–645,000 seabirds; only ~14% recovered; led to Oil Pollution Act of 1990. **Phase 2 verified** against [ch19 Summary.pdf, p.2] and [ch19_2.pdf, slide 26]. [source: ch19 Summary.pdf, p.2]
 
 [Concept ID: ch20-040] **Deepwater Horizon (2010)**: Gulf of Mexico; largest oil spill ever at 205 million gallons. [source: ch19 Summary.pdf, p.2]
 
